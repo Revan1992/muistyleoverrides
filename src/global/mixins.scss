@@ -1,0 +1,52 @@
+@mixin text-style($fontSize, $lineHeight, $letterSpacing, $forntWeight) {
+  font-weight: $forntWeight;
+  font-size: $fontSize;
+  font-style: normal;
+  line-height: $lineHeight;
+  letter-spacing: $letterSpacing;
+}
+
+@mixin font-size($fontSize) {
+  font-weight: 400;
+  font-size: $fontSize;
+  font-style: normal;
+  line-height: 16px;
+  letter-spacing: 1px;
+}
+
+@mixin visually-hidden() {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+  clip: rect(0, 0, 0, 0) !important;
+}
+
+@mixin tonal-colors {
+  --jll-ds-color-tonal-watercourse-dark: #067458;
+  --jll-ds-color-tonal-watercourse-light: #dcfdf5;
+  --jll-ds-color-tonal-atollblue-dark: #077272;
+  --jll-ds-color-tonal-atollblue-light: #dffdfd;
+  --jll-ds-color-tonal-bahamablue-dark: #006e93;
+  --jll-ds-color-tonal-bahamablue-light: #eafaff;
+  --jll-ds-color-tonal-scienceblue-dark: #0064c8;
+  --jll-ds-color-tonal-scienceblue-light: #f1f8ff;
+  --jll-ds-color-tonal-royalblue-dark: #2b59e2;
+  --jll-ds-color-tonal-royalblue-light: #f5f7fe;
+  --jll-ds-color-tonal-lilac-dark: #8a31e4;
+  --jll-ds-color-tonal-lilac-light: #f9f5fe;
+  --jll-ds-color-tonal-violet-dark: #a511d6;
+  --jll-ds-color-tonal-violet-light: #fcf4fe;
+  --jll-ds-color-tonal-magenta-dark: #bc1292;
+  --jll-ds-color-tonal-magenta-light: #fef4fb;
+  --jll-ds-color-tonal-orange-dark: #b14100;
+  --jll-ds-color-tonal-orange-light: #fff5ef;
+  --jll-ds-color-tonal-warmgray-dark: #6c645e;
+  --jll-ds-color-tonal-warmgray-light: #f7f7f6;
+  --jll-ds-color-tonal-reversed-dark: #60666e;
+  --jll-ds-color-tonal-reversed-light: #f7f7f6;
+}

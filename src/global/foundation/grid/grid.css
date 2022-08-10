@@ -1,0 +1,46 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 12 May 2022 06:04:22 GMT
+ */
+
+:root {
+  --jll-ds-grid-320-fluid-low-density: "columns-16";
+  --jll-ds-grid-320-fluid-med-density: "columns-16";
+  --jll-ds-grid-320-fluid-high-density: "columns-16";
+  --jll-ds-grid-390-fluid-low-density: "columns-24";
+  --jll-ds-grid-390-fluid-med-density: "columns-20";
+  --jll-ds-grid-390-fluid-high-density: "columns-16";
+  --jll-ds-grid-480-fluid-low-density: "columns-24";
+  --jll-ds-grid-480-fluid-med-density: "columns-20";
+  --jll-ds-grid-480-fluid-high-density: "columns-16";
+  --jll-ds-grid-768-fluid-low-density: "columns-24";
+  --jll-ds-grid-768-fluid-med-density: "columns-24";
+  --jll-ds-grid-768-fluid-high-density: "columns-16";
+  --jll-ds-grid-992-fluid-low-density: "columns-28";
+  --jll-ds-grid-992-fluid-med-density: "columns-24";
+  --jll-ds-grid-992-fluid-high-density: "columns-16";
+  --jll-ds-grid-1200-fluid-low-density: "columns-36";
+  --jll-ds-grid-1200-fluid-med-density: "columns-24";
+  --jll-ds-grid-1200-fluid-high-density: "columns-16";
+  --jll-ds-grid-1200-centered-low-density: "columns-36";
+  --jll-ds-grid-1200-centered-med-density: "columns-24";
+  --jll-ds-grid-1200-centered-high-density: "columns-16";
+  --jll-ds-grid-1440-fluid-low-density: "columns-40";
+  --jll-ds-grid-1440-fluid-med-density: "columns-32";
+  --jll-ds-grid-1440-fluid-high-density: "columns-16";
+  --jll-ds-grid-1440-centered-low-density: "columns-40";
+  --jll-ds-grid-1440-centered-med-density: "columns-32";
+  --jll-ds-grid-1440-centered-high-density: "columns-16";
+  --jll-ds-grid-1920-fluid-low-density: "columns-56";
+  --jll-ds-grid-1920-fluid-med-density: "columns-40";
+  --jll-ds-grid-1920-fluid-high-density: "columns-24";
+  --jll-ds-grid-1920-centered-low-density: "columns-56";
+  --jll-ds-grid-1920-centered-med-density: "columns-40";
+  --jll-ds-grid-1920-centered-high-density: "columns-24";
+  --jll-ds-grid-2280-fluid-low-density: "columns-64";
+  --jll-ds-grid-2280-fluid-med-density: "columns-48";
+  --jll-ds-grid-2280-fluid-high-density: "columns-28";
+  --jll-ds-grid-2280-centered-low-density: "columns-64";
+  --jll-ds-grid-2280-centered-med-density: "columns-48";
+  --jll-ds-grid-2280-centered-high-density: "columns-28";
+}

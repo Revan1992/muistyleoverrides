@@ -1,0 +1,82 @@
+.display-flex {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 20px 50px;
+}
+
+.comp-container {
+  max-width: 30%;
+  margin: 0 30px 0 0;
+}
+
+.comp-container1 {
+  max-width: 50%;
+  margin: 0 30px 0 0;
+}
+
+table, td, tr, th {
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 10px;
+}
+
+.pad-tb-0 {
+  padding: 0 50px;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border-width: 0px !important;
+}
+
+.Mui-disabled {
+  background: var(--jll-ds-input-disabled-background, var(--jll-ds-color-surface-base-subdued, #f6f7f7));
+  border: 1px solid var(--jll-ds-input-disabled-border, var(--jll-ds-color-stroke-base-default, #dddfe1));
+}
+
+
+.MuiCard-root {
+  max-width: 700px;
+  padding: 0px;
+  font-family: inherit;
+  background-color: var(--jll-ds-card-background, #ffffff);
+  border: 1px solid;
+  border-color: var(--jll-ds-card-border, #dddfe1);
+  border-radius: 4px;
+  box-shadow: none !important;
+}
+
+.MuiAlert-standardError {
+  background-color: var(--jll-ds-color-surface-danger-secondary) !important;
+}
+
+.MuiAlert-standardWarning {
+  background-color: var(--jll-ds-color-surface-warning-secondary) !important;
+}
+
+.MuiAlert-standardInfo {
+  background-color: var(--jll-ds-color-surface-info-secondary) !important;
+}
+
+.MuiAlert-standardSuccess {
+  background-color: var(--jll-ds-color-surface-success-secondary) !important; 
+}
+
+.MuiSvgIcon-root {
+  padding-left: 8px;
+}
+
+.card-heading1 {
+  margin-bottom: 40px !important;
+  font-weight: 600 !important;
+  font-size: 22px !important;
+  line-height: 32px !important;
+}
+
+.MuiCardContent-root {
+  padding: 30px 16px 16px !important;
+}
+

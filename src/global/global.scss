@@ -1,0 +1,26 @@
+@import "./foundation/colors/colors";
+@import "./foundation/spacing/spacing";
+@import "./foundation/typography/typography";
+@import "./mixins";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.hidden {
+  display: none;
+}
+
+$tonal-colors: "watercourse",
+  "atollblue",
+  "royalblue",
+  "bahamablue",
+  "scienceblue",
+  "lilac",
+  "violet",
+  "magenta",
+  "orange",
+  "warmgray",
+  "reversed";
+$sizes: "small", "medium", "large", "xlarge";

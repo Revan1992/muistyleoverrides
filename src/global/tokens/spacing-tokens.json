@@ -1,0 +1,116 @@
+{
+  "spacing": {
+    "0": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 2,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "1": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 4,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "2": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 8,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "3": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 12,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "4": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 16,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "5": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 24,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "6": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 32,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "7": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 40,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "8": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 56,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "9": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 72,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "10": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 88,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "11": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 104,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "12": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 138,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "13": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 164,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "14": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 196,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "15": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "value": 228,
+      "type": "number",
+      "unit": "pixel"
+    }
+  }
+}

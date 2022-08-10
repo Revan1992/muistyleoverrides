@@ -1,0 +1,47 @@
+.mui-input-comp {
+    width: 50%;
+    max-width: 100%;
+    border:
+      1px solid var(
+        --jll-ds-input-border,
+        var(--jll-ds-color-stroke-base-default)
+      );
+    border-radius: 4px;
+  }
+  
+  .mui-input-comp::before,
+  .mui-input-comp:before {
+    border-bottom: none;
+  }
+  
+  .mui-input-comp::after,
+  .mui-input-comp:after {
+    border-bottom: none;
+  }
+  
+  .mui-input-comp:hover {
+    border:
+      1px solid var(
+        --jll-ds-input-border-hover,
+        var(--jll-ds-color-icon-base-subdued)
+      );
+  }
+  
+  .mui-input-comp input{
+    color:
+      var(
+        --jll-ds-input-color,
+        var(--jll-ds-color-text-base-default)
+      );
+    width: 100%;
+    padding: 10px;
+    letter-spacing: -0.005em;
+    border: none;
+    outline: none;
+    font-size: var(--jll-ds-typography-font-body-font-size);
+  }
+  
+  .mui-input-comp input:focus-within {
+    outline: 3px solid var(--jll-ds-color-stroke-base-default);
+    border-radius: 4px;
+  }

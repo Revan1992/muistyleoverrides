@@ -1,0 +1,100 @@
+{
+  "breakpoints": {
+    "mobile": {
+      "sm": {
+        "description": null,
+        "value": 320,
+        "type": "dimension",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "exportKey": "breakpoint"
+          }
+        }
+      },
+      "md": {
+        "description": null,
+        "value": 390,
+        "type": "dimension",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "exportKey": "breakpoint"
+          }
+        }
+      },
+      "lg": {
+        "description": null,
+        "value": 480,
+        "type": "dimension",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "exportKey": "breakpoint"
+          }
+        }
+      }
+    },
+    "tablet": {
+      "sm": {
+        "description": null,
+        "value": 768,
+        "type": "dimension",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "exportKey": "breakpoint"
+          }
+        }
+      },
+      "lg": {
+        "description": null,
+        "value": 992,
+        "type": "dimension",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "exportKey": "breakpoint"
+          }
+        }
+      }
+    },
+    "desktop": {
+      "sm": {
+        "description": null,
+        "value": 1200,
+        "type": "dimension",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "exportKey": "breakpoint"
+          }
+        }
+      },
+      "md": {
+        "description": null,
+        "value": 1440,
+        "type": "dimension",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "exportKey": "breakpoint"
+          }
+        }
+      },
+      "lg": {
+        "description": null,
+        "value": 1920,
+        "type": "dimension",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "exportKey": "breakpoint"
+          }
+        }
+      },
+      "xlg": {
+        "description": null,
+        "value": 2280,
+        "type": "dimension",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "exportKey": "breakpoint"
+          }
+        }
+      }
+    }
+  }
+}

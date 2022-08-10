@@ -1,0 +1,16 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 12 May 2022 06:04:22 GMT
+ */
+
+:root {
+  --jll-ds-breakpoints-mobile-sm: 320px;
+  --jll-ds-breakpoints-mobile-md: 390px;
+  --jll-ds-breakpoints-mobile-lg: 480px;
+  --jll-ds-breakpoints-tablet-sm: 768px;
+  --jll-ds-breakpoints-tablet-lg: 992px;
+  --jll-ds-breakpoints-desktop-sm: 1200px;
+  --jll-ds-breakpoints-desktop-md: 1440px;
+  --jll-ds-breakpoints-desktop-lg: 1920px;
+  --jll-ds-breakpoints-desktop-xlg: 2280px;
+}

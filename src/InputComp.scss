@@ -1,0 +1,86 @@
+.displayFlexSpaceBetween {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.MuiInput-root,
+.MuiInputBase-root {
+    width: 100%;
+    max-width: 100%;
+    border: 1px solid var(--jll-ds-color-stroke-base-default) !important;
+    border-radius: 6px !important;
+    margin: var(--jll-ds-spacing-2) 0;
+}
+
+.MuiInput-root::before,
+.MuiInput-root:before,
+.MuiInputBase-root::before,
+.MuiInputBase-root:before {
+    border-bottom: none !important;
+}
+
+.MuiInput-root::after,
+.MuiInput-root:after,
+.MuiInputBase-root::before,
+.MuiInputBase-root:before {
+    border-bottom: none !important;
+}
+
+.MuiInput-root:hover,
+.MuiInput-root:focus-within,
+.MuiInputBase-root:hover,
+.MuiInputBase-root:focus-within {
+    border: 1px solid var(--jll-ds-color-icon-base-subdued) !important;
+}
+
+.MuiInput-input, 
+.MuiInputBase-input {
+    color: var(--jll-ds-color-text-base-default) !important;
+    width: 100%;
+    padding: 0 12px !important;
+    letter-spacing: -0.1px !important;
+    border: none !important;
+    outline: none !important;
+    font-size: var(--jll-ds-typography-font-body-font-size) !important;
+    height: 48px !important;
+    font-family: Arial !important;
+    font-size: 20px !important;
+}
+
+.Mui-focused {
+    outline: 3px solid var(--jll-ds-color-stroke-base-default) !important;
+    border-radius: 6px !important;
+}
+
+.MuiFormHelperText-root {
+    outline: none !important;
+}
+
+.Mui-error {
+    width: 100%;
+    max-width: 100%;
+    border: 1px solid var(--jll-ds-color-icon-danger-default) !important;
+    border-radius: 6px !important;
+    margin: var(--jll-ds-spacing-2) 0;
+}
+
+#outlined-error-helper-text {
+    border: none !important;
+    outline: none !important;
+}
+
+.Mui-error .MuiInputBase-input {
+    color: var(--jll-ds-color-icon-danger-default) !important;
+}
+
+.input-with-error .Mui-focused {
+    border: 1px solid var(--jll-ds-color-icon-danger-default) !important;
+    outline: 3px solid var(--jll-ds-input-invalid-outline, #fbd6df) !important;
+    border-radius: 6px !important;
+}
+
+.validation-success .MuiInputBase-root {
+    border: 1px solid var(--jll-ds-color-surface-success-default) !important;
+    outline: 3px solid var(--jll-ds-color-surface-success-subdued) !important;
+}
